@@ -5,7 +5,7 @@
 
 ----
 <p align="center">
-  <a href="ttps://github.com/braindecode/braindecode">GitHub</a> 
+  <a href="https://github.com/braindecode/braindecode">GitHub</a> 
   | <a href="https://braindecode.github.io/braindecode/auto_examples/index.html">Tutorials</a>
   | <a href="https://braindecode.org/master/">Documentation</a>
   | <a href="https://gitter.im/braindecodechat/community">Chat</a>
@@ -13,8 +13,8 @@
 
 ---
 
-Braindecode is an **open-source Python toolbox for decoding raw
-electrophysiological** brain data with deep learning models. It includes
+Braindecode is an open-source Python toolbox for decoding raw
+electrophysiological brain data with deep learning models. It includes
 dataset fetchers, data preprocessing and visualization tools, as well as
 implementations of several deep learning architectures and data
 augmentations for analysis of EEG, ECoG and MEG.
