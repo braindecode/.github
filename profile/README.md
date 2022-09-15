@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/braindecode/braindecode/master/docs/_static/braindecode.svg" alt="Braindecode logo" />
+<img src="https://raw.githubusercontent.com/braindecode/braindecode/master/docs/_static/braindecode_small.svg" alt="Braindecode logo" />
 </p>
 
 
