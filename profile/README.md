@@ -23,7 +23,7 @@ augmentations for analysis of EEG, ECoG and MEG.
 **For neuroscientists who want to work with deep learning and deep
 learning researchers who want to work with neurophysiological data.**
 
-Braindecode is developed by the [University of Freiburg](https://www.ieeg.uni-freiburg.de/) and [INRIA Parietal](https://team.inria.fr/parietal/).
+Braindecode is developed by the [University of Freiburg](https://www.ieeg.uni-freiburg.de/) and [INRIA MIND](https://team.inria.fr/mind/).
 
 Braindecode is compatible with the [MNE](mne.tools/), [Skorch](skorch.readthedocs.io/), [PyTorch](https://pytorch.org/) ecosystems.
 
