@@ -5,10 +5,10 @@
 
 ----
 <p align="center">
-   <a href="https://braindecode.org/master/starting.html">Getting starting</a>
+   <a href="https://braindecode.org/stable/starting.html">Getting starting</a>
   | <a href="https://github.com/braindecode/braindecode">GitHub</a>
-  | <a href="https://braindecode.org/master/auto_examples/index.html">Tutorials</a>
-  | <a href="https://braindecode.org/master/">Documentation</a>
+  | <a href="https://braindecode.org/stable/auto_examples/index.html">Tutorials</a>
+  | <a href="https://braindecode.org/stable/">Documentation</a>
   | <a href="https://gitter.im/braindecodechat/community">Chat</a>
 </p>
 
